@@ -1,3 +1,5 @@
 Extra Packages:
 - missingno and pingouin must be downloaded extra via conda
 - impyute and missingpy must be downloaded extra via pip
+
+imputation methods MissingForest and iterativeImputer have been commented out on purpose since they do work, but take extremely long to execute  
